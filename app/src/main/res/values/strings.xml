@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Task Description</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="save_task">Save Task</string>
+    <string name="save_task_">Save Task</string>
+    <string name="pick_image_">Pick Image</string>
+    <string name="task_description_">Task Description</string>
+    <string name="task_title_">Task Title</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="enable_daily_reminders">Enable Daily Reminders</string>
+    <string name="list_of_tasks">List of tasks</string>
+    <string name="task_title__">Task Title</string>
+    <string name="task_description__">Task Description</string>
+    <string name="save_task__">Save Task</string>
+</resources>
